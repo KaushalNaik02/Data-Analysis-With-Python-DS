@@ -7,4 +7,4 @@ Welcome to the Data Analysis with Python project! 🚀 This repository showcases
 ✔️ Exploratory Data Analysis (EDA): Uncover patterns and insights through visualizations and statistics.
 ✔️ Data Visualization: Create stunning plots and charts using Matplotlib and Seaborn.
 ✔️ Statistical Analysis: Perform correlation analysis, hypothesis testing, and more.
-✔️ Reproducible Code: Clean and modular scripts for easy understanding and replication.
+✔️ Reproducible Code: Clean & modular scripts for easy understanding and replication.
